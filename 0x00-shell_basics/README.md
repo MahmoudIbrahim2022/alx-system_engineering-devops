@@ -13,3 +13,6 @@ it changes the working directory to the user’s home directory
 
 * 3-listfiles
 it Displays current directory contents in a long format
+
+* 4-listmorefiles
+it Displays current directory contents, including hidden files (starting with .). Use the long format.
