@@ -21,4 +21,7 @@ it Displays current directory contents, including hidden files (starting with .)
 Display current directory contents with Long format, user and group IDs displayed numerically and hidden files (starting with .)
 
 * 6-firstdirectory
-Creates a directory named my first directory in the /tmp/ directory.
+Creates a directory named my first directory in the /tmp/ directory
+
+* 7-movethatfile
+Move the file betty from /tmp/ to /tmp/my first directory
