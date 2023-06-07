@@ -19,3 +19,6 @@ it Displays current directory contents, including hidden files (starting with .)
 
 * 5-listfilesdigitonly
 Display current directory contents with Long format, user and group IDs displayed numerically and hidden files (starting with .)
+
+* 6-firstdirectory
+Creates a directory named my first directory in the /tmp/ directory.
