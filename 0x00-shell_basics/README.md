@@ -25,3 +25,6 @@ Creates a directory named my first directory in the /tmp/ directory
 
 * 7-movethatfile
 Move the file betty from /tmp/ to /tmp/my first directory
+
+* 8-firstdelete
+Delete the file betty
