@@ -42,3 +42,5 @@ in the current directory and the parent of the working directory and the /boot d
 * 12-file type
 prints the type of the file named iamafile
 
+* 13-symbolic link
+Create a symbolic link to /bin/ls, named __ls__.
