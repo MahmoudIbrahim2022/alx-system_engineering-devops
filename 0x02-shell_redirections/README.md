@@ -48,3 +48,6 @@ Hidden directories should be counted
 
 * 12-What’s new
 displays the 10 newest files in the current directory.
+
+* 13-unique
+takes a list of words as input and prints only words that appear exactly once
