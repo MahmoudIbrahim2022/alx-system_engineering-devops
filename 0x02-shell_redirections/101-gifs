@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -name "*.gif" -type f -printf "%f\n" | ls -lS | cut -f 1 -d '.'
+find . -name "*.gif" -type f -printf "%f\n" | xargs ls -lS | cut -f 1 -d '.'
