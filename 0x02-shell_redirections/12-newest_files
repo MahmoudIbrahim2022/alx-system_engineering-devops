@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type f -printf "%p\n" | xargs ls -t | head -10
+find . -type f | xargs ls -t | head -10
